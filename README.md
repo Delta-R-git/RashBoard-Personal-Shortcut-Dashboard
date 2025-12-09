@@ -2,7 +2,10 @@
 
 A dark, elegant, and mobile-friendly dashboard to organize all your favorite websites in one place.  
 Built with HTML, Tailwind CSS, and JavaScript.  
-Rashboard is fully open-source, lightweight, and offers full privacy with no data storage or tracking.
+
+Rashboard is fully **open-source**, **lightweight**, and offers **full privacy** with no data storage or tracking.
+
+Use it if you want a clean dashboard to organize all your shortcuts. Or if you hate multiple apps, shortcuts or links on your desktop or home screen
 
 ---
 
@@ -19,9 +22,9 @@ Rashboard is fully open-source, lightweight, and offers full privacy with no dat
 - Drag-and-drop to reorder
 - Automatic or manual save options
 
-### ✏️ Edit a Shortcut
-- PC: Right-click shortcut → Edit Details
-- Mobile: Long-press shortcut → Edit Details
+#### ✏️ Edit a Shortcut
+- **PC**: Right-click shortcut → Edit Details
+- **Mobile**: Long-press shortcut → Edit Details
 - Update Name or URL
 - Click Save
 
@@ -30,9 +33,9 @@ Rashboard is fully open-source, lightweight, and offers full privacy with no dat
 - Add your own icon via image URL
 - Instant preview for both desktop & mobile
 
-### ⚙️ Change Icon / Colors
-- PC: Right-click the icon circle → Change Icon
-- Mobile: Long-press the card or icon → Change Icon
+#### ⚙️ Change Icon / Colors
+- **PC**: Right-click the icon circle → Change Icon
+- **Mobile**: Long-press the card or icon → Change Icon
 - Pick a color theme
 - Or enter a custom image URL
 
@@ -60,18 +63,20 @@ Rashboard is fully open-source, lightweight, and offers full privacy with no dat
 - A toast notification appears
 - Mobile devices vibrate for feedback
 
-Manual save ensures your layout and shortcuts stay persistent.
+saving ensures your layout and shortcuts stay persistent.
 
 ---
 
 ## ✨ Why Use Rashboard?
 Use it as an app, set it as your custom homepage or new tab, or simply run it in your browser to create a beautiful, personalized home screen for your favorite websites.
+Or if you hate multiple apps, shortcuts or links on your desktop or home screen
 
 Perfect for:
 - Developers
 - Productivity lovers
 - Minimalism fans
-- Anyone who wants a clean, portable startpage across PC & mobile
+- Anyone who wants a clean, portable startpage or a all in one dashboard on PC or mobile
+- Anyone who dont want multiple apps, shortcuts or links on thier desktop or home screen 
 
 ---
 
@@ -80,5 +85,6 @@ Perfect for:
 2. Open index.html in any browser
 3. Start adding and organizing shortcuts
 4. Press Save to store everything locally
+5. Use the code or app as you please
 
-That's it — your dashboard becomes your personal dashboard.
+That's it — your Rashboard becomes your personal dashboard.
