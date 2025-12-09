@@ -5,7 +5,7 @@ Built with HTML, Tailwind CSS, and JavaScript.
 
 Rashboard is fully **open-source**, **lightweight**, and offers **full privacy** with no data storage or tracking.
 
-For users who want a clean dashboard to organize all their shortcuts, or who hate having multiple apps, shortcuts, or links on their desktop or home screen.
+For users who want a clean dashboard to organize all their shortcuts, or who hate having multiple apps, shortcuts, or links on thier desktop or home screen.
 
 ---
 
@@ -75,8 +75,8 @@ Perfect for:
 - Developers
 - Productivity lovers
 - Minimalism fans
-- Anyone who wants a clean, portable startpage or a all in one dashboard on PC or mobile
-- Anyone who dont want multiple apps, shortcuts or links on thier desktop or home screen 
+- Anyone who wants a clean, portable startpage or a all-in-one dashboard on PC or mobile
+- Anyone who doesn't want multiple apps, shortcuts or links on thier desktop or home screen 
 
 ---
 
